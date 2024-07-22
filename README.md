@@ -247,6 +247,3 @@ end
 2. Run the script in MATLAB.
 3. The script will display tables, transition matrices, and visualizations in the MATLAB command window and figure windows.
 
-## Contact
-
-For any questions or issues, please contact the script author.
